@@ -1,0 +1,28 @@
+/* move the funny glasses */
+.funny-glasses{
+    position: relative;
+    left: 210px;
+    bottom: 110px;
+}
+
+.bandana{
+    position: absolute;
+     top: 172px;
+    left:  113px;
+}
+
+.pawprint{
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+
+.luna{
+    position: sticky;
+    left: 60px;
+
+}
+
+.top-hat {
+    z-index: 1;
+}
